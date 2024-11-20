@@ -92,15 +92,15 @@
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
-    <p>Why don't programmers like nature? It has too many bugs! 🐛</p>
-  </div>
-</details>
 
-<p align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  <p align="center">
   <img src="https://media.tenor.com/tNfwApVE9RAAAAAM/orange-cat-laughing.gif" alt="Orange Cat Laughing GIF" width="300" />
 </p>
 
----
+
+  </div>
+</details>
 
 ### 🧐 Funny Fact About Me
 <div align="left" style="font-size: 12px; display: flex; flex-direction: column; justify-content: center;">
