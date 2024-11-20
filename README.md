@@ -92,10 +92,23 @@
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  <p align="center">
-  <img src="https://media.tenor.com/tNfwApVE9RAAAAAM/orange-cat-laughing.gif" alt="Orange Cat Laughing GIF" width="500" />
-</p>
+    <p>Why don't programmers like nature? It has too many bugs! 🐛</p>
   </div>
 </details>
+
+<p align="center">
+  <img src="https://media.tenor.com/tNfwApVE9RAAAAAM/orange-cat-laughing.gif" alt="Orange Cat Laughing GIF" width="300" />
+</p>
+
+---
+
+### 🧐 Funny Fact About Me
+<div align="left" style="font-size: 12px; display: flex; flex-direction: column; justify-content: center;">
+  <p>1. I love drinking tea 🍵</p>
+  <img src="https://media.tenor.com/dXeGgnB4u_sAAAAM/dragon-woman-anime.gif" alt="Dragon Woman Anime GIF" width="250" />
+</div>
+
+<div align="left" style="font-size: 12px; display: flex; flex-direction: column; justify-content: center;">
+  <p>2. I love Germany! Hail</p>
+  <img src="https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticle_images%2F2020%2F02%2F29%2F487753-1582930802.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2" alt="German Meme" width="250" />
+</div>
