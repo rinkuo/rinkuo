@@ -1,5 +1,5 @@
-# Hi 👋, I'm Saodatov Jamshidbek
-### A passionate backend developer from Uzbekistan
+# 🌟 **Hello, World! I'm Saodatov Jamshidbek** 🌟
+### A Passionate Backend Developer from **Uzbekistan** 🇺🇿 | Building the future, one line of code at a time 💻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rinkuo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,49 +10,36 @@
 </p>
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/896638102945690076/E14DD943ECEFA2EF82C9B6CC644C98161BD73662/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Cute Anime Girl" width="600" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="Cute Anime Girl" width="600" style="border-radius: 10px;" />
 </p>
 
----
 
-### 🚀 Currently Working On
-- **AI Bot** development for smarter automation.
-
----
-
-### 🌱 I’m Learning:
-- **Python** and **C++** to enhance my backend skills and algorithms knowledge.
+### 🌱 **Learning & Exploring**
+- **Backend development** with **Python** and **C++**
+- Deep diving into **algorithms** and **data structures** for **optimized solutions**
+- Exploring the wonders of **AI** and **machine learning** 🤖
 
 ---
 
-### 💬 Ask Me About:
-- **HTML, CSS, JavaScript, C, C#, Python**
+### 📫 **Let’s Connect**
+- **Email**: [rinkusoft77@gmail.com](mailto:rinkusoft77@gmail.com)
+- **Twitter**: [@rinkuo_dev](https://twitter.com/rinkuo_dev)
+- **LinkedIn**: [Saodatov Jamshidbek](https://www.linkedin.com/in/saodatovjamshidbek)
 
 ---
 
-### 📫 How to Reach Me:
-- Email: [rinkusoft77@gmail.com](mailto:rinkusoft77@gmail.com)
-
----
-
-### 📚 Blogs Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🔗 Connect With Me
+### 🔗 **Connect With Me**
 <p align="center">
-  <a href="https://dev.to/rinku" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://instagram.com/abubakr_o_0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/rinkuo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rinkuo07" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://discord.gg/clay04782" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://dev.to/rinku" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://instagram.com/abubakr_o_0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/rinkuo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/rinkuo07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://discord.gg/clay04782" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 **Technologies & Tools I Love**
 <p align="center">
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
@@ -68,47 +55,22 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 **GitHub Stats & Leetcode Performance**
 #### Languages:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkuo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 #### GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinkuo&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-### Leetcode
-<div align="center">
-
-![LeetCode Stats](https://leetcode.card.workers.dev/rinkuo07?theme=auto&font=baloo&extension=null)
-
-</div>
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  <p align="center">
-  <img src="https://media.tenor.com/tNfwApVE9RAAAAAM/orange-cat-laughing.gif" alt="Orange Cat Laughing GIF" width="300" />
+#### Leetcode Stats:
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/rinkuo07?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
 </p>
 
 
-  </div>
-</details>
+---
 
-### 🧐 Funny Fact About Me
-<div align="left" style="font-size: 12px; display: flex; flex-direction: column; justify-content: center;">
-  <p>1. I love drinking tea 🍵</p>
-  <img src="https://media.tenor.com/dXeGgnB4u_sAAAAM/dragon-woman-anime.gif" alt="Dragon Woman Anime GIF" width="250" />
-</div>
-
-<div align="left" style="font-size: 12px; display: flex; flex-direction: column; justify-content: center;">
-  <p>2. I love Germany! Hail</p>
-  <img src="https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticle_images%2F2020%2F02%2F29%2F487753-1582930802.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2" alt="German Meme" width="250" />
-</div>
