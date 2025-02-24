@@ -140,13 +140,15 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=rinkuo&theme=radical&border_radius=8&fire=DD2727" alt="GitHub Streak Stats" />
+</p>
 
+<p align="center">
   <a href="https://leetcode.com/u/rinkuo7/">
     <img src="https://leetcard.jacoblin.cool/rinkuo7?theme=nord&border=0&radius=20" alt="LeetCode Stats" />
   </a>
-</div>
+</p>
 
 
 
