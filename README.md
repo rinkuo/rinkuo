@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/b1/b0/18/b1b0188f04fe370e6a4632690d7de640.gif" alt="Coding Animation" />
+  <img height="200" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="Coding Animation" />
 </div>
 
 ## <div align="center">🎮 **Passion Meets Code** 🎮</div>
@@ -34,24 +34,6 @@
   - 💬 Ask me about **Python, Algorithms, System Design**
   
   - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
-</div>
-
-## <div align="center">🌈 **My Digital Persona** 🌈</div>
-
-```javascript
-const jamshidbek = {
-  pronouns: "he" | "him",
-  code: ["Python", "C++", "C#", "JavaScript"],
-  tools: ["Django", "PostgreSQL", "Docker", "Git"],
-  architecture: ["microservices", "event-driven", "design patterns"],
-  interests: ["Backend Development", "Algorithms", "AI/ML", "Game Development"],
-  challenge: "Solving complex problems with elegant solutions",
-  funFact: "My code is like my coffee - strong, efficient, and sometimes keeps me up at night! ☕"
-};
-```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ2bzVsendtcml0dDRjdGJtc2JyZzBzdGN5cGppeXZnM3pwOGl5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed">
 </div>
 
 ## <div align="center">🏆 **Achievements** 🏆</div>
@@ -154,59 +136,34 @@ const jamshidbek = {
   </a>
 </p>
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://streak-stats.demolab.com?user=rinkuo&theme=radical&border_radius=8&fire=DD2727" alt="GitHub Streak Stats" />
-</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinkuo&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <a href="https://leetcode.com/u/rinkuo7/">
+    <img src="https://leetcard.jacoblin.cool/rinkuo7?theme=nord&border=0&radius=20" alt="LeetCode Stats" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/rinkuo07?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
-</div>
+
+
 
 ## <div align="center">🌠 **Coding Journey** 🌠</div>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+  <img src="https://i.pinimg.com/originals/e3/48/b9/e348b911db3fdb71444f7bb705effd44.gif" width="400">
 </div>
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#9933CC', 'edgeLabelBackground':'#9933CC', 'tertiaryColor': '#fff' }}}%%
-journey
-  title My Coding Journey
-  section Learning Stage
-    Coding Basics: 5: Me
-    Python & C++: 5: Me
-    Algorithms: 4: Me
-  section Development Stage
-    Backend Systems: 5: Me
-    APIs: 4: Me
-    Databases: 4: Me
-  section Advanced Stage
-    System Architecture: 3: Me, Team
-    AI/ML Integration: 2: Me, Team
-    Game Development: 3: Me, Team
-  section Future
-    Innovation: 1: Me, Team, World
-```
 
-## <div align="center">⚡ **Weekly Dev Breakdown** ⚡</div>
-
+## <div align="center">📊 **Tech Stack Usage**  📊</div>
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-</div>
+  
+  <img src="https://img.shields.io/badge/Python-60.25%25-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-30.15%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-5.30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-3.20%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Other-1.10%25-9E9E9E?style=for-the-badge&logo=code&logoColor=white" />
 
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████░░░░░  60.25% 🐍
-C++          ███████████░░░░░░░░░░  30.15% 🔧
-SQL          ████░░░░░░░░░░░░░░░░░  05.30% 📊
-Docker       ██░░░░░░░░░░░░░░░░░░░  03.20% 🐳
-Other        █░░░░░░░░░░░░░░░░░░░░  01.10% 🔍
-```
-<!--END_SECTION:waka-->
+</div>
 
 ## <div align="center">🔥 **Connect With Me** 🔥</div>
 
@@ -214,25 +171,22 @@ Other        █░░░░░░░░░░░░░░░░░░░░  01
   <a href="mailto:rinkusoft77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/rinkuo_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/saodatovjamshidbek">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/rinku">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  <a href="https://t.me/abubakr_so">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://instagram.com/abubakr_o_0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/c/rinkuo">
+  <a href="https://www.youtube.com/@RinkuRinku-w8k">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.leetcode.com/rinkuo07">
+  <a href="https://www.leetcode.com/rinkuo7">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://discord.gg/clay04782">
+  <a href="https://steamcommunity.com/id/rinkuo/">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://discord.gg/r1nkuo">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
@@ -244,13 +198,14 @@ Other        █░░░░░░░░░░░░░░░░░░░░  01
 ## <div align="center">📌 **Pinned Projects** 📌</div>
 
 <div align="center">
-  <a href="https://github.com/rinkuo/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinkuo&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/rinkuo/exam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinkuo&repo=exam&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/rinkuo/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinkuo&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/rinkuo/admin-panel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinkuo&repo=admin-panel&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
 </div>
+
 
 ## <div align="center">💭 **Random Dev Quote** 💭</div>
 
