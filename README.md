@@ -10,9 +10,13 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From-Uzbekistan%20🇺🇿-00A884?style=for-the-badge" alt="From Uzbekistan" />
+  <img src="https://img.shields.io/badge/Language-Python%20🐍-blue?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Backend-Django%20🕊️-092E20?style=for-the-badge" alt="Django" />
   <img src="https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Code-C++%20💻-00599C?style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/AI-&%20Machine%20Learning%20🧠-ff9900?style=for-the-badge" alt="AI & ML" />
 </p>
+
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="Coding Animation" />
