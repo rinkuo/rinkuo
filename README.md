@@ -195,7 +195,7 @@
   <a href="https://steamcommunity.com/id/rinkuo/">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="https://discord.gg/r1nkuo">
+  <a href="https://discord.gg/TrNvyw3h">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
