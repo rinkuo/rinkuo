@@ -12,10 +12,10 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet)
-  ![GitHub followers](https://img.shields.io/github/followers/rinkuo?style=for-the-badge&color=FA6B9D)
-  ![GitHub stars](https://img.shields.io/github/stars/rinkuo?style=for-the-badge&color=42B883)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/rinkuo/rinkuo?style=for-the-badge&color=2ECC71)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/rinkuo/rinkuo?style=for-the-badge&color=8E44AD)  
   [![Buy Me A Coffee](https://img.shields.io/badge/Support-☕️-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/rinkusoft7l)
-  
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-pink.svg?style=for-the-badge)](https://github.com/sponsors/rinkuo)  
 </div>
 
 
