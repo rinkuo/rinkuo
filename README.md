@@ -1,4 +1,4 @@
-# <div align="center">✨ SAODATOV JAMSHIDBEK ✨</div>
+# <div align="center">✨ SAODATOV ABUBAKR ✨</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/Potential17/7589724a5d5a722ae7f7c64f82f862d2/raw/2b187ee5A74f56a9b9bcf32f5fb5bd56f37f831f/github-header-image.gif" alt="GitHub Banner" />
