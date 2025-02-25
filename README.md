@@ -14,7 +14,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet)
   ![GitHub followers](https://img.shields.io/github/followers/rinkuo?style=for-the-badge&color=FA6B9D)
   ![GitHub stars](https://img.shields.io/github/stars/rinkuo?style=for-the-badge&color=42B883)
-  [![Buy Me A Coffee](https://img.shields.io/badge/Support-☕️-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/rinkuo)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Support-☕️-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/rinkusoft7l)
   
 </div>
 
