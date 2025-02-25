@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="Coding Animation" />
+  <img height="200" src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" alt="Coding Animation" />
 </div>
 
 
@@ -66,6 +66,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rinkuo&theme=radical&border_radius=8&fire=DD2727" alt="GitHub Streak Stats" />
 </p>
+
+<div align="center">
+  <img height="200" src="https://i.sstatic.net/022Fl.gif" alt="Coding Animation" />
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -222,7 +226,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="150" />
+  <img src="https://i.gifer.com/3BBF.gif" width="150" />
 </div>
 
 <div align="center">
