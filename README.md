@@ -77,12 +77,6 @@
 
 ## <div align="center">⚡ **Tech Stack & Skills** ⚡</div>
 
-<div align="center">
-  <img src="https://media.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-  <img src="https://media.tenor.com/images/7167a9c97e13f3f67d9f595d6659a5a8/tenor.gif" width="70">
-  <img src="https://media.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-</div>
-
 <table align="center">
   <tr>
     <td align="center" width="96">
