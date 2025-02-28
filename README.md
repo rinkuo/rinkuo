@@ -1,32 +1,41 @@
-# <div align="center">✨ SAODATOV ABUBAKR ✨</div>
-
 <div align="center">
-  <img src="https://raw.githubusercontnt.com/gist/Potential17/7589724a5d5a722ae7f7c64f82f862d2/raw/2b187ee5A74f56a9b9bcf32f5fb5bd56f37f831f/github-header-image.gif" alt="GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abubakr%20Saodatov&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Algorithm%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&height=60&lines=🚀+Backend+Developer;🧠+Problem+Solver;📊+Algorithm+Enthusiast;🔥+Always+Learning;⚡+Python+%2B+C%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=🔮+Backend+Developer+Extraordinaire;🧠+Problem+Solving+Wizard;📊+Algorithm+Optimization+Specialist;🛠️+Architecture+Designer;⚡+Python+%2B+C%2B%2B+Maestro;🎮+Game+Development+Enthusiast" alt="Typing SVG" />
 
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F75C7E&background=3944FF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=%22Building+the+digital+world%2C+one+line+of+code+at+a+time.%22;%22Turning+coffee+into+code+since+2019.%22" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F75C7E&background=3944FF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Code+is+poetry+written+for+both+humans+and+machines.%22;%22Turning+complex+problems+into+elegant+solutions.%22;%22Where+passion+meets+precision+and+innovation.%22" alt="Typing SVG" /></a>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/rinkuo/rinkuo?style=for-the-badge&color=2ECC71)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/rinkuo/rinkuo?style=for-the-badge&color=8E44AD)  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Support-☕️-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/rinkusoft7l)
-  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-pink.svg?style=for-the-badge)](https://github.com/sponsors/rinkuo)  
-</div>
+  <p>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40">
+  </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/last-commit/rinkuo/rinkuo?style=for-the-badge&color=2ECC71&label=LAST+UPDATE" />
+    <img src="https://img.shields.io/github/repo-size/rinkuo/rinkuo?style=for-the-badge&color=8E44AD&label=REPO+SIZE" />  
+  </p>
+  <p>
+    <a href="https://www.buymeacoffee.com/rinkusoft7l">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
+    <a href="https://github.com/sponsors/rinkuo">
+      <img src="https://img.shields.io/badge/Sponsor-💖-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 <div align="center">
   <img height="200" src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" alt="Coding Animation" />
 </div>
 
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
 
 ## <div align="center">💫 **About Me** 💫</div>
 
@@ -55,20 +64,30 @@
 ## <div align="center">🏆 **Achievements & Metrics** 🏆</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rinkuo&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rinkuo&theme=discord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
+  </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinkuo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkuo&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rinkuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&ring_color=ff3068&bg_color=00000000" />
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkuo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rinkuo&theme=radical&border_radius=8&fire=DD2727" alt="GitHub Streak Stats" />
-</p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=rinkuo&theme=tokyonight&border_radius=10&fire=DD2727&ring=52DD81&currStreakNum=DDDDDD&dates=DDDDDD&sideNums=52DDAE&background=00000000&hide_border=true" alt="GitHub Streak Stats" />
+  </p>
 
-<div align="center">
+  <div align="center">
   <img height="200" src="https://i.sstatic.net/022Fl.gif" alt="Coding Animation" />
+</div>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinkuo&theme=react-dark&bg_color=00000000&hide_border=true" width="95%"/>
 </div>
 
 <div align="center">
@@ -172,6 +191,81 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+
+
+## <div align="center">🚀 **Projects Showcase** 🚀</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/rinkuo/exam">🎓 Advanced Examination System</a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/rinkuo/exam">
+            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Izb3B1aG1ieDh3dDdlZmgya2JkM285bjZ1MWNjcnI5MW5kdGV5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AETFdQZgJjIONYFTva/giphy.gif" width="100%" alt="Examination System"/>
+          </a>
+          <p align="center">
+            A secure, scalable examination system with anti-cheating features, AI-powered question generation, and real-time analytics
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/rinkuo/admin-panel">⚙️ Dynamic Admin Dashboard</a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/rinkuo/admin-panel">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJiaW02Z202cHdkaDFhdDB0aGl4cmE4cnF6NDk0Z2I0N3d5YmVrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%" alt="Admin Dashboard"/>
+          </a>
+          <p align="center">
+            Full-featured admin panel with customizable widgets, dark/light themes, and comprehensive analytics integration
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/rinkuo/game-engine">🎮 Lightweight Game Engine</a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/rinkuo/game-engine">
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RsMWphaXdybXhicXY5YzhraTg0aWg1YzFmN2hlZTVxdmFzaTAyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="100%" alt="Game Engine"/>
+          </a>
+          <p align="center">
+            Custom C++ game engine with physics simulation, shader support, and cross-platform capabilities
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/rinkuo/ml-microservice">🧠 ML Microservice Framework</a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/rinkuo/ml-microservice">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdxdDEwN3B5OGU3N3FwbWMwc3J0OWltbTBkYnZucHBjZjVvaWtubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="ML Microservice"/>
+          </a>
+          <p align="center">
+            Containerized machine learning microservices with automatic scaling, model versioning, and API gateway integration
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/rinkuo?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 ## <div align="center">🔥 **Connect With Me** 🔥</div>
 
 <div align="center">
@@ -196,21 +290,6 @@
   <a href="https://discord.gg/TrNvyw3h">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
-
-## <div align="center">📌 **Pinned Projects** 📌</div>
-
-<div align="center">
-  <a href="https://github.com/rinkuo/exam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinkuo&repo=exam&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/rinkuo/admin-panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinkuo&repo=admin-panel&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## <div align="center">💭 **Random Dev Quote** 💭</div>
