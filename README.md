@@ -19,7 +19,7 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/last-commit/rinkusoft7l/rinkusoft7l?style=for-the-badge&color=2ECC71&label=LAST+UPDATE" />
+    <img src="https://img.shields.io/github/last-commit/rinkuo/rinkuo?style=for-the-badge&color=2ECC71&label=LAST+UPDATE" />
     <img src="https://img.shields.io/github/repo-size/rinkuo/rinkuo?style=for-the-badge&color=8E44AD&label=REPO+SIZE" />  
   </p>
   <p>
