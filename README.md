@@ -23,13 +23,13 @@
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
   </p>
 <p>
-    <img src="https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/Backend-Developer-6A5ACD?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Backend Developer"/>
     <img src="https://img.shields.io/badge/Problem%20Solver-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solver"/>
     <img src="https://img.shields.io/badge/Algorithm%20Enthusiast-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" alt="Algorithm Enthusiast"/>
 </p>
 <p>
     <a href="https://www.buymeacoffee.com/rinkusoft7l">
+        <img src="https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
         <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
     </a>
     <a href="https://github.com/sponsors/rinkuo">
