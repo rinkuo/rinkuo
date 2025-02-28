@@ -1,10 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abubakr%20Saodatov&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Algorithm%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=🔮+Backend+Developer+Extraordinaire;🧠+Problem+Solving+Wizard;📊+Algorithm+Optimization+Specialist;🛠️+Architecture+Designer;⚡+Python+%2B+C%2B%2B+Maestro;🎮+Game+Development+Enthusiast" alt="Typing SVG" />
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=🔮+Elite+Backend+Architect;🧠+Problem+Solving+Grandmaster;🚀+Algorithm+Optimization+Genius;🛠️+System+Design+Specialist;⚡+Python+%2B+C%2B%2B+Virtuoso;🎮+Indie+Game+Developer" alt="Typing SVG" />
+  
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F75C7E&background=3944FF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Code+is+poetry+written+for+both+humans+and+machines.%22;%22Turning+complex+problems+into+elegant+solutions.%22;%22Where+passion+meets+precision+and+innovation.%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=F75C7E&background=3944FF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22The+code+you+write+today+shapes+the+world+of+tomorrow.%22;%22Elegance+in+design%2C+efficiency+in+execution.%22;%22At+the+intersection+of+imagination+and+implementation.%22" alt="Typing SVG" /></a>
+  
+ <div>
+    <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="400">
+  </div>
   
   <p>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
