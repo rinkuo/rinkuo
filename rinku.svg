@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes gradientText {
@@ -9,9 +9,8 @@
         }
 
         @keyframes glow {
-          0% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff7300, 0 0 15px #ff0000; }
-          50% { text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff99, 0 0 30px #00ff00; }
-          100% { text-shadow: 0 0 5px #0077ff, 0 0 10px #00ffff, 0 0 15px #0077ff; }
+          0%, 100% { text-shadow: 0 0 10px #ff0, 0 0 20px #ff7300, 0 0 30px #ff0; }
+          50% { text-shadow: 0 0 15px #0ff, 0 0 25px #00f, 0 0 35px #0ff; }
         }
 
         h1 {
@@ -20,49 +19,50 @@
           font-weight: 900;
           text-align: center;
           letter-spacing: -0.05em;
-          background: linear-gradient(270deg, #ff0 0%, #f00, #0f0, #00f, #ff0);
+          margin: 20px 0;
+          background: linear-gradient(270deg, #ff0, #f00, #0f0, #00f, #ff0);
           background-size: 500%;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           animation: gradientText 5s ease infinite, glow 3s ease infinite;
+          display: flex;
+          justify-content: center;
+          align-items: center;
         }
 
         @keyframes emojiFall {
-          0% { top: -10%; opacity: 0; transform: rotate(0deg); }
+          0% { transform: translateY(-100vh) rotate(0deg); opacity: 0; }
           50% { opacity: 1; }
-          100% { top: 100%; opacity: 0; transform: rotate(360deg); }
+          100% { transform: translateY(100vh) rotate(360deg); opacity: 0; }
         }
 
         .emoji {
-          position: fixed;
-          font-size: 2em;
+          position: absolute;
+          font-size: 2.5em;
           user-select: none;
           cursor: default;
-          animation: emojiFall 7s linear infinite;
+          animation: emojiFall 6s linear infinite;
         }
 
         .emoji:nth-child(1) { left: 5%; animation-delay: 1s; }
-        .emoji:nth-child(2) { left: 15%; animation-delay: 3s; }
-        .emoji:nth-child(3) { left: 25%; animation-delay: 2s; }
-        .emoji:nth-child(4) { left: 35%; animation-delay: 4s; }
-        .emoji:nth-child(5) { left: 50%; animation-delay: 2.5s; }
-        .emoji:nth-child(6) { left: 65%; animation-delay: 3.5s; }
-        .emoji:nth-child(7) { left: 75%; animation-delay: 1.5s; }
-        .emoji:nth-child(8) { left: 85%; animation-delay: 2s; }
-        .emoji:nth-child(9) { left: 95%; animation-delay: 4s; }
+        .emoji:nth-child(2) { left: 20%; animation-delay: 3s; }
+        .emoji:nth-child(3) { left: 35%; animation-delay: 2s; }
+        .emoji:nth-child(4) { left: 50%; animation-delay: 4s; }
+        .emoji:nth-child(5) { left: 65%; animation-delay: 2.5s; }
+        .emoji:nth-child(6) { left: 80%; animation-delay: 3.5s; }
+        .emoji:nth-child(7) { left: 90%; animation-delay: 1.5s; }
       </style>
 
-      <h1>🚀 AbuBakr Saodatov 🎨</h1>
-
-      <div class="emoji">💡</div>
-      <div class="emoji">🔥</div>
-      <div class="emoji">💻</div>
-      <div class="emoji">🎯</div>
-      <div class="emoji">⚡</div>
-      <div class="emoji">🛠️</div>
-      <div class="emoji">🌟</div>
-      <div class="emoji">🎉</div>
-      <div class="emoji">📈</div>
+      <div>
+        <h1>🚀 AbuBakr Saodatov 🌟</h1> 
+        <div class="emoji">🔥</div>
+        <div class="emoji">💡</div>
+        <div class="emoji">💻</div>
+        <div class="emoji">🎯</div>
+        <div class="emoji">⚡</div>
+        <div class="emoji">🚀</div>
+        <div class="emoji">📈</div>
+      </div>
     </div>
   </foreignObject>
 </svg>
