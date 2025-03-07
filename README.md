@@ -4,7 +4,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://moe-counter.glitch.me/get/@rinkuo?theme=rule34" alt="Visitor Count" />
+  <img src="https://moe-counter.glitch.me/get/@rinkuo?theme=moebooru" alt="Visitor Count" />
 </div>
   
   <p>
