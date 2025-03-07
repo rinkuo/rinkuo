@@ -2,11 +2,7 @@
   <img src="rinku.svg" alt="AbuBakr Saodatov" width="800" height="200"/>
 </h1>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=🔮+Elite+Backend+Architect;🧠+Problem+Solving+Grandmaster;🚀+Algorithm+Optimization+Genius;🛠️+System+Design+Specialist;⚡+Python+%2B+C%2B%2B+Virtuoso;🎮+Indie+Game+Developer" alt="Typing SVG" />
-  
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=F75C7E&background=3944FF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22The+code+you+write+today+shapes+the+world+of+tomorrow.%22;%22Elegance+in+design%2C+efficiency+in+execution.%22;%22At+the+intersection+of+imagination+and+implementation.%22" alt="Typing SVG" /></a>
-  
+<div align="center">
  <div>
     <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="400">
   </div>
@@ -35,8 +31,7 @@
         <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me"/>
     </a>
 </p>
-
-  
+</div>
 </div>
 
 <div align="center">
