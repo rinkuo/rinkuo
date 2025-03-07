@@ -1,252 +1,158 @@
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Definitions for gradients and filters -->
   <defs>
-    <!-- Main text gradient -->
+    <!-- Enhanced gradients -->
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#3b82f6">
-        <animate attributeName="stop-color" 
-                 values="#3b82f6; #8b5cf6; #ec4899; #3b82f6" 
-                 dur="8s" 
-                 repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#ec4899;#3b82f6" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#ec4899;#3b82f6;#8b5cf6" dur="10s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#ec4899">
-        <animate attributeName="stop-color" 
-                 values="#ec4899; #3b82f6; #8b5cf6; #ec4899" 
-                 dur="8s" 
-                 repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#ec4899;#3b82f6;#8b5cf6;#ec4899" dur="10s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
     
-    <!-- Underline gradient -->
-    <linearGradient id="underlineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6" />
-      <stop offset="50%" stop-color="#8b5cf6" />
-      <stop offset="100%" stop-color="#ec4899" />
-    </linearGradient>
-    
-    <!-- Glow filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    <!-- Shimmering effect -->
+    <filter id="shimmer">
+      <feTurbulence type="fractalNoise" baseFrequency="0.01 0.05" numOctaves="2" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="5" xChannelSelector="R" yChannelSelector="G" />
     </filter>
     
-    <!-- Particle colors -->
+    <!-- Glow effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur" />
+      <feMerge>
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <!-- Background pattern -->
+    <pattern id="bgPattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1" fill="#ffffff" opacity="0.1" />
+    </pattern>
+    
+    <!-- Particle gradients -->
     <radialGradient id="particleGradient1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="0%" stop-color="#60a5fa" />
       <stop offset="100%" stop-color="#3b82f6" />
     </radialGradient>
-    
     <radialGradient id="particleGradient2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#ec4899" />
-      <stop offset="100%" stop-color="#8b5cf6" />
+      <stop offset="0%" stop-color="#f472b6" />
+      <stop offset="100%" stop-color="#ec4899" />
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+  <!-- Enhanced background -->
   <rect width="800" height="200" fill="#0f172a" />
+  <rect width="800" height="200" fill="url(#bgPattern)" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="10s" repeatCount="indefinite" />
+  </rect>
   
-  <!-- Decorative circles -->
-  <circle cx="400" cy="100" r="150" fill="none" stroke="rgba(59, 130, 246, 0.1)" stroke-width="2">
-    <animateTransform attributeName="transform"
-                      type="rotate"
-                      from="0 400 100"
-                      to="360 400 100"
-                      dur="20s"
-                      repeatCount="indefinite" />
+  <!-- Dynamic background shapes -->
+  <circle cx="0" cy="0" r="300" fill="url(#textGradient)" opacity="0.1">
+    <animate attributeName="cx" values="-100;900" dur="20s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="250;-50" dur="23s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="800" cy="200" r="250" fill="url(#textGradient)" opacity="0.1">
+    <animate attributeName="cx" values="900;-100" dur="22s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="-50;250" dur="19s" repeatCount="indefinite" />
   </circle>
   
-  <circle cx="400" cy="100" r="200" fill="none" stroke="rgba(236, 72, 153, 0.1)" stroke-width="2">
-    <animateTransform attributeName="transform"
-                      type="rotate"
-                      from="360 400 100"
-                      to="0 400 100"
-                      dur="25s"
-                      repeatCount="indefinite" />
-  </circle>
-  
-  <!-- Glow effect -->
-  <circle cx="400" cy="100" r="120" fill="url(#textGradient)" opacity="0.1">
-    <animate attributeName="opacity"
-             values="0.05;0.1;0.05"
-             dur="4s"
-             repeatCount="indefinite" />
-    <animate attributeName="r"
-             values="120;130;120"
-             dur="4s"
-             repeatCount="indefinite" />
-  </circle>
-  
-  <!-- Particles -->
-  <!-- Particle 1 -->
-  <circle cx="300" cy="150" r="3" fill="url(#particleGradient1)">
-    <animate attributeName="cy" 
-             values="150;70;150" 
-             dur="6s" 
-             repeatCount="indefinite" 
-             begin="0s" />
-    <animate attributeName="cx" 
-             values="300;320;300" 
-             dur="6s" 
-             repeatCount="indefinite" 
-             begin="0s" />
-    <animate attributeName="opacity" 
-             values="0;0.8;0" 
-             dur="6s" 
-             repeatCount="indefinite" 
-             begin="0s" />
-  </circle>
-  
-  <!-- Particle 2 -->
-  <circle cx="350" cy="130" r="4" fill="url(#particleGradient2)">
-    <animate attributeName="cy" 
-             values="130;60;130" 
-             dur="7s" 
-             repeatCount="indefinite" 
-             begin="1s" />
-    <animate attributeName="cx" 
-             values="350;370;350" 
-             dur="7s" 
-             repeatCount="indefinite" 
-             begin="1s" />
-    <animate attributeName="opacity" 
-             values="0;0.7;0" 
-             dur="7s" 
-             repeatCount="indefinite" 
-             begin="1s" />
-  </circle>
-  
-  <!-- Particle 3 -->
-  <circle cx="450" cy="140" r="3.5" fill="url(#particleGradient1)">
-    <animate attributeName="cy" 
-             values="140;50;140" 
-             dur="5s" 
-             repeatCount="indefinite" 
-             begin="2s" />
-    <animate attributeName="cx" 
-             values="450;430;450" 
-             dur="5s" 
-             repeatCount="indefinite" 
-             begin="2s" />
-    <animate attributeName="opacity" 
-             values="0;0.8;0" 
-             dur="5s" 
-             repeatCount="indefinite" 
-             begin="2s" />
-  </circle>
-  
-  <!-- Particle 4 -->
-  <circle cx="500" cy="120" r="4" fill="url(#particleGradient2)">
-    <animate attributeName="cy" 
-             values="120;40;120" 
-             dur="8s" 
-             repeatCount="indefinite" 
-             begin="0.5s" />
-    <animate attributeName="cx" 
-             values="500;520;500" 
-             dur="8s" 
-             repeatCount="indefinite" 
-             begin="0.5s" />
-    <animate attributeName="opacity" 
-             values="0;0.7;0" 
-             dur="8s" 
-             repeatCount="indefinite" 
-             begin="0.5s" />
-  </circle>
-  
-  <!-- Particle 5 -->
-  <circle cx="250" cy="110" r="3" fill="url(#particleGradient1)">
-    <animate attributeName="cy" 
-             values="110;30;110" 
-             dur="6.5s" 
-             repeatCount="indefinite" 
-             begin="1.5s" />
-    <animate attributeName="cx" 
-             values="250;230;250" 
-             dur="6.5s" 
-             repeatCount="indefinite" 
-             begin="1.5s" />
-    <animate attributeName="opacity" 
-             values="0;0.8;0" 
-             dur="6.5s" 
-             repeatCount="indefinite" 
-             begin="1.5s" />
-  </circle>
-  
-  <!-- Particle 6 -->
-  <circle cx="550" cy="130" r="3.5" fill="url(#particleGradient2)">
-    <animate attributeName="cy" 
-             values="130;50;130" 
-             dur="7.5s" 
-             repeatCount="indefinite" 
-             begin="2.5s" />
-    <animate attributeName="cx" 
-             values="550;570;550" 
-             dur="7.5s" 
-             repeatCount="indefinite" 
-             begin="2.5s" />
-    <animate attributeName="opacity" 
-             values="0;0.7;0" 
-             dur="7.5s" 
-             repeatCount="indefinite" 
-             begin="2.5s" />
-  </circle>
-  
-  <!-- Main text with animation -->
-  <text x="400" y="110" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
-        text-anchor="middle" fill="url(#textGradient)" filter="url(#glow)">
-    AbuBakr Saodatov
-    
-    <!-- Text animation - draw effect -->
-    <animate attributeName="opacity" 
-             values="0;1" 
-             dur="2s" 
-             begin="0s" 
-             fill="freeze" />
-  </text>
-  
-  <!-- Underline with animation -->
-  <line x1="200" y1="140" x2="600" y2="140" stroke="url(#underlineGradient)" stroke-width="3" stroke-linecap="round">
-    <animate attributeName="x1" 
-             values="400;200" 
-             dur="1.5s" 
-             begin="0.5s" 
-             fill="freeze" />
-    <animate attributeName="x2" 
-             values="400;600" 
-             dur="1.5s" 
-             begin="0.5s" 
-             fill="freeze" />
-    <animate attributeName="opacity" 
-             values="0;1" 
-             dur="1s" 
-             begin="0.5s" 
-             fill="freeze" />
+  <!-- Decorative lines -->
+  <line x1="0" y1="100" x2="800" y2="100" stroke="url(#textGradient)" stroke-width="0.5" opacity="0.3">
+    <animate attributeName="y1" values="100;80;120;100" dur="15s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="100;120;80;100" dur="15s" repeatCount="indefinite" />
+  </line>
+  <line x1="400" y1="0" x2="400" y2="200" stroke="url(#textGradient)" stroke-width="0.5" opacity="0.3">
+    <animate attributeName="x1" values="400;380;420;400" dur="17s" repeatCount="indefinite" />
+    <animate attributeName="x2" values="400;420;380;400" dur="17s" repeatCount="indefinite" />
   </line>
   
-  <!-- Small decorative dots -->
-  <circle cx="200" cy="140" r="3" fill="#3b82f6">
-    <animate attributeName="opacity" 
-             values="0;1" 
-             dur="0.5s" 
-             begin="2s" 
-             fill="freeze" />
-    <animate attributeName="r" 
-             values="0;3" 
-             dur="0.5s" 
-             begin="2s" 
-             fill="freeze" />
+  <!-- Enhanced particle system -->
+  <g id="particles">
+    <!-- Particle 1 -->
+    <circle cx="100" cy="200" r="3" fill="url(#particleGradient1)">
+      <animate attributeName="cy" values="200;-20" dur="8s" repeatCount="indefinite" begin="0s" />
+      <animate attributeName="cx" values="100;140;60;100" dur="8s" repeatCount="indefinite" begin="0s" />
+      <animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite" begin="0s" />
+    </circle>
+    <!-- Particle 2 -->
+    <circle cx="300" cy="200" r="2" fill="url(#particleGradient2)">
+      <animate attributeName="cy" values="200;-20" dur="10s" repeatCount="indefinite" begin="1s" />
+      <animate attributeName="cx" values="300;340;260;300" dur="10s" repeatCount="indefinite" begin="1s" />
+      <animate attributeName="opacity" values="0;0.7;0" dur="10s" repeatCount="indefinite" begin="1s" />
+    </circle>
+    <!-- Particle 3 -->
+    <circle cx="500" cy="200" r="4" fill="url(#particleGradient1)">
+      <animate attributeName="cy" values="200;-20" dur="12s" repeatCount="indefinite" begin="2s" />
+      <animate attributeName="cx" values="500;540;460;500" dur="12s" repeatCount="indefinite" begin="2s" />
+      <animate attributeName="opacity" values="0;0.6;0" dur="12s" repeatCount="indefinite" begin="2s" />
+    </circle>
+    <!-- Particle 4 -->
+    <circle cx="700" cy="200" r="3" fill="url(#particleGradient2)">
+      <animate attributeName="cy" values="200;-20" dur="9s" repeatCount="indefinite" begin="3s" />
+      <animate attributeName="cx" values="700;740;660;700" dur="9s" repeatCount="indefinite" begin="3s" />
+      <animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite" begin="3s" />
+    </circle>
+    <!-- More particles... -->
+    <circle cx="200" cy="200" r="2" fill="url(#particleGradient1)">
+      <animate attributeName="cy" values="200;-20" dur="11s" repeatCount="indefinite" begin="4s" />
+      <animate attributeName="cx" values="200;240;160;200" dur="11s" repeatCount="indefinite" begin="4s" />
+      <animate attributeName="opacity" values="0;0.7;0" dur="11s" repeatCount="indefinite" begin="4s" />
+    </circle>
+    <circle cx="600" cy="200" r="3" fill="url(#particleGradient2)">
+      <animate attributeName="cy" values="200;-20" dur="13s" repeatCount="indefinite" begin="5s" />
+      <animate attributeName="cx" values="600;640;560;600" dur="13s" repeatCount="indefinite" begin="5s" />
+      <animate attributeName="opacity" values="0;0.6;0" dur="13s" repeatCount="indefinite" begin="5s" />
+    </circle>
+  </g>
+  
+  <!-- Main text with enhanced animation -->
+  <g filter="url(#glow)">
+    <text id="mainText" x="400" y="110" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
+          text-anchor="middle" fill="url(#textGradient)" filter="url(#shimmer)">
+      AbuBakr Saodatov
+      <animate attributeName="opacity" values="0;1" dur="2s" begin="0s" fill="freeze" />
+      <animate attributeName="filter" values="url(#shimmer);none" dur="3s" begin="2s" fill="freeze" />
+    </text>
+  </g>
+  
+  <!-- Text outline effect -->
+  <use href="#mainText" stroke="#ffffff" stroke-width="2" fill="none">
+    <animate attributeName="stroke-dasharray" values="0 100%;100% 0" dur="3s" begin="0s" fill="freeze" />
+  </use>
+  
+  <!-- Enhanced underline with animation -->
+  <path id="underline" d="M200 140 Q400 180 600 140" stroke="url(#textGradient)" stroke-width="3" fill="none" stroke-linecap="round">
+    <animate attributeName="d" values="M400 140 Q400 140 400 140;M200 140 Q400 180 600 140" dur="2s" begin="0.5s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.5s" fill="freeze" />
+  </path>
+  
+  <!-- Decorative elements -->
+  <circle cx="200" cy="140" r="4" fill="#3b82f6">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze" />
+    <animate attributeName="r" values="0;4" dur="0.5s" begin="2.5s" fill="freeze" />
+  </circle>
+  <circle cx="600" cy="140" r="4" fill="#ec4899">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze" />
+    <animate attributeName="r" values="0;4" dur="0.5s" begin="2.5s" fill="freeze" />
   </circle>
   
-  <circle cx="600" cy="140" r="3" fill="#ec4899">
-    <animate attributeName="opacity" 
-             values="0;1" 
-             dur="0.5s" 
-             begin="2s" 
-             fill="freeze" />
-    <animate attributeName="r" 
-             values="0;3" 
-             dur="0.5s" 
-             begin="2s" 
-             fill="freeze" />
-  </circle>
+  <!-- Floating geometric shapes -->
+  <g opacity="0.2">
+    <rect x="50" y="50" width="20" height="20" fill="#3b82f6">
+      <animateTransform attributeName="transform" type="rotate" from="0 60 60" to="360 60 60" dur="20s" repeatCount="indefinite" />
+    </rect>
+    <polygon points="750,30 770,70 730,70" fill="#8b5cf6">
+      <animateTransform attributeName="transform" type="rotate" from="0 750 50" to="-360 750 50" dur="25s" repeatCount="indefinite" />
+    </polygon>
+    <circle cx="100" cy="150" r="10" fill="#ec4899">
+      <animate attributeName="cy" values="150;140;160;150" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="50" r="8" fill="#60a5fa">
+      <animate attributeName="cx" values="700;710;690;700" dur="18s" repeatCount="indefinite" />
+    </circle>
+  </g>
 </svg>
