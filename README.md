@@ -1,7 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&duration=4000&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=800&height=100&lines=ABUBAKR" alt="Typing SVG" />
-  </a>
+<h1 align="center">
+  <img src="rinku.svg" alt="rinkuo"/>
+</h1>
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=🔮+Elite+Backend+Architect;🧠+Problem+Solving+Grandmaster;🚀+Algorithm+Optimization+Genius;🛠️+System+Design+Specialist;⚡+Python+%2B+C%2B%2B+Virtuoso;🎮+Indie+Game+Developer" alt="Typing SVG" />
   
