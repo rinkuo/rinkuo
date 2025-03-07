@@ -3,9 +3,9 @@
 </h1>
 
 <div align="center">
- <div>
-    <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="400">
-  </div>
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@rinkuo?theme=rule34" alt="Visitor Count" />
+</div>
   
   <p>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
@@ -24,7 +24,6 @@
 </p>
 <p>
     <a href="https://www.buymeacoffee.com/rinkusoft7l">
-        <img src="https://komarev.com/ghpvc/?username=rinkuo&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
         <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
     </a>
     <a href="https://github.com/sponsors/rinkuo">
@@ -35,11 +34,11 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" alt="Coding Animation" />
+  <img height="200" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="Coding Animation" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 
